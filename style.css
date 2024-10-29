@@ -1,0 +1,6 @@
+div{
+    p{
+        border: 10px solid purple;
+        width: 500px;
+    }
+}
